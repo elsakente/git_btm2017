@@ -2,6 +2,8 @@ import functionalities as func
 
 options = ["Say hi","Add client","Add transaction","Look at money"]
 
+print ("this is a modification I made")
+
 def show_options():
     index = 0
     for option in options:
